@@ -20,10 +20,12 @@ public class LeapYearPrinter {
                                 break;
 
                         }
+                        break;
                     default:
                         System.out.println("leap");
                         break;
                 }
+                break;
             default:
                 System.out.println("not leap");
 
